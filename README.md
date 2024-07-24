@@ -1,11 +1,11 @@
-Hi 👋 My name is Roman Malanov
+Привет! Я Роман, развиваюсь в направлении Backend разработки на Flask/Django.
 ==============================
 
-Junior Python Developer
+Junior Python Backend Developer
 -----------------------
 
-*   🌍  I'm based in Novosibirsk
-*   🧠  I'm learning Django
+*   🌍  Живу в Новосибирске
+*   🧠  На данный момент изучаю Django
 
 ### Skills 
 
