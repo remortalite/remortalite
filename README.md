@@ -8,7 +8,7 @@
 skills = ['Python', 'Django', 'sql', 'PostgreSQL', 'pytest', 'poetry', 'Flask']
 ```
 
-### для связи
+### контакты
 
 ```python
 {
