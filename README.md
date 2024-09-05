@@ -2,13 +2,13 @@
 
 Меня зовут Роман, развиваюсь в направлении Backend разработки на Django. Прохожу курсы на Hexlet.
 
-### Навыки 
+### навыки 
 
 ```python
 skills = ['Python', 'Django', 'sql', 'PostgreSQL', 'pytest', 'poetry', 'Flask']
 ```
 
-### Socials
+### для связи
 
 ```python
 {
